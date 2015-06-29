@@ -7,8 +7,6 @@ CONTROL OF THE ANIMATION OF HUMAN LOCOMOTION USING KOHONEN SELF-ORGANIZING NETWO
 
 By PATRICK J. JOINER
 
-December, 1993 
-
 Chairman: Paul A. Fishwick 
 
 Major Department:  Computer and Information Sciences
