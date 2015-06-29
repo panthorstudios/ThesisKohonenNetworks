@@ -2,8 +2,6 @@
 
 
 
-* [start](text/start.md)
-* [abstract](text/abstract.md)
 * [ch01](text/ch01.md)
 * [ch02](text/ch02.md)
 * [ch03](text/ch03.md)
@@ -18,4 +16,4 @@
 * [appendixa](text/appendixa.md)
 * [appendixb](text/appendixb.md)
 * [refs](text/refs.md)
-* [bio](text/bio.md)
+* [abstract](text/abstract.md)
