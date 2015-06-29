@@ -2,13 +2,14 @@
 
 * [Chapter 1: INTRODUCTION](text/ch01.md)
 * [Chapter 2: ANIMATION](text/ch02.md)
-**Conventional Animation 3
-**Computer-Assisted Animation 3
-**Computer Animation 4
-**Control of Computer Animation 5
-**Explicit Control 5
-**Procedural Control 5
-**Constraint-based Control
+** Conventional Animation 3
+** Computer-Assisted Animation 3
+** Computer Animation 4
+** Control of Computer Animation 5
+** Explicit Control 5
+** Procedural Control 5
+** Constraint-based Control
+
 * [Chapter 3](text/ch03.md)
 * [Chapter 4](text/ch04.md)
 * [Chapter 5](text/ch05.md)
