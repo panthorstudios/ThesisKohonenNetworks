@@ -7,6 +7,10 @@ CONTROL OF THE ANIMATION OF HUMAN LOCOMOTION USING KOHONEN SELF-ORGANIZING NETWO
 
 By PATRICK J. JOINER
 
+December, 1993 
+
+Chairman: Paul A. Fishwick 
+
 Major Department:  Computer and Information Sciences
 
 Animation has been a major part of the entertainment industry since motion pictures were invented.  Although a relatively recent development, computer animation has quickly emerged as a dominant medium for many fields, not limited to entertainment.
