@@ -1,4 +1,6 @@
-DATA USED TO TRAIN THE KOHONEN NETWORK
+# APPENDIX B: DATA USED TO TRAIN THE KOHONEN NETWORK
+
+
 Table B-1: Input patterns for competitive layer of network, walking gait
 Table B-2: Input patterns for competitive layer of network, running gait
 Table B-3: Input patterns for competitive layer of network, climbing gait
