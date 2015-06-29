@@ -1,6 +1,4 @@
-
-
-
+## Control of the Animation of Human Locomotion Using Kohonen Self-Organizing Networks 
 
 * [ch01](text/ch01.md)
 * [ch02](text/ch02.md)
