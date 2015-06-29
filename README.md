@@ -2,6 +2,7 @@
 
 * [Chapter 1: INTRODUCTION](text/ch01.md)
 * [Chapter 2: ANIMATION](text/ch02.md)
+
 ** Conventional Animation 3
 ** Computer-Assisted Animation 3
 ** Computer Animation 4
