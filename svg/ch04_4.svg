@@ -1,0 +1,593 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Sat Jul  4 12:13:16 2015 -->
+<!-- Magnification: 1.000 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="6.0in" height="3.0in" viewBox="111 9536 7244 3638">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="133,9558
+7333,9558
+7333,12891
+133,12891
+133,9558
+" style="stroke:#ffffff;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="133,9558
+7333,9558
+7333,12891
+133,12891
+133,9558
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3865" y="12636" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">T</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3987" y="12636" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">I</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4054" y="12636" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">M</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4232" y="12636" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">E</text>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2321,9752
+2321,12256
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="2321,9691
+2321,9692
+2318,9697
+2313,9710
+2305,9731
+2295,9756
+2285,9780
+2277,9801
+2272,9814
+2269,9819
+2269,9820
+2270,9820
+2273,9821
+2278,9822
+2281,9823
+2282,9823
+2284,9824
+2286,9824
+2289,9825
+2293,9826
+2297,9827
+2298,9827
+2299,9827
+2301,9827
+2304,9827
+2307,9828
+2309,9828
+2310,9829
+2313,9829
+2316,9829
+2318,9829
+2320,9829
+2321,9829
+2323,9829
+2327,9829
+2329,9829
+2330,9829
+2332,9828
+2335,9828
+2338,9827
+2341,9827
+2343,9827
+2345,9827
+2348,9826
+2352,9825
+2353,9825
+2354,9825
+2355,9824
+2359,9823
+2363,9822
+2367,9821
+2370,9820
+2372,9820
+2372,9819
+2369,9814
+2364,9801
+2356,9780
+2346,9755
+2337,9731
+2329,9710
+2324,9697
+2321,9692
+2321,9691
+" style="stroke:#000000;stroke-width:0;
+stroke-linejoin:bevel; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5825,12256
+2321,12256
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="5886,12256
+5885,12256
+5880,12253
+5867,12248
+5846,12240
+5821,12230
+5797,12221
+5776,12213
+5763,12208
+5758,12205
+5757,12205
+5757,12206
+5756,12209
+5755,12213
+5754,12216
+5754,12217
+5753,12219
+5753,12222
+5752,12225
+5751,12229
+5750,12233
+5750,12234
+5750,12236
+5749,12239
+5749,12242
+5748,12243
+5748,12244
+5748,12245
+5748,12248
+5748,12251
+5748,12253
+5748,12255
+5748,12256
+5748,12258
+5748,12262
+5748,12264
+5748,12265
+5748,12267
+5749,12270
+5749,12273
+5750,12276
+5750,12278
+5750,12279
+5751,12283
+5752,12287
+5752,12288
+5753,12289
+5753,12291
+5754,12295
+5755,12300
+5756,12303
+5757,12306
+5757,12308
+5758,12308
+5763,12305
+5776,12300
+5797,12292
+5822,12282
+5846,12272
+5867,12264
+5880,12259
+5885,12256
+5886,12256
+" style="stroke:#000000;stroke-width:0;
+stroke-linejoin:bevel; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5904,11756
+2337,11756
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:40 40;"/>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1945" y="11813" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">-</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2012" y="11813" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">7</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2112" y="11813" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">0</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2106" y="11027" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">0</text>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="5522,11751
+5518,11751
+5511,11751
+5497,11751
+5476,11750
+5449,11750
+5415,11750
+5377,11749
+5336,11748
+5295,11748
+5257,11747
+5223,11747
+5196,11747
+5175,11746
+5161,11746
+5154,11746
+5150,11746
+5148,11746
+5145,11746
+5138,11746
+5129,11746
+5116,11746
+5101,11746
+5083,11747
+5064,11747
+5044,11747
+5022,11748
+4999,11748
+4974,11749
+4948,11750
+4920,11751
+4890,11752
+4858,11753
+4824,11755
+4787,11757
+4755,11759
+4728,11761
+4709,11762
+4695,11763
+4686,11764
+4680,11764
+4676,11765
+4672,11765
+4666,11766
+4658,11766
+4645,11768
+4627,11770
+4604,11772
+4575,11775
+4543,11779
+4508,11783
+4477,11787
+4454,11790
+4438,11793
+4428,11794
+4422,11795
+4418,11796
+4414,11796
+4408,11797
+4399,11799
+4385,11802
+4364,11806
+4338,11811
+4308,11817
+4279,11823
+4252,11830
+4229,11835
+4209,11841
+4191,11846
+4176,11850
+4161,11855
+4149,11859
+4138,11862
+4129,11865
+4123,11867
+4120,11868
+4118,11869
+4117,11869
+4113,11869
+4103,11870
+4087,11871
+4065,11873
+4039,11875
+4014,11877
+3992,11879
+3976,11880
+3966,11881
+3962,11881
+3961,11881
+3959,11880
+3954,11879
+3947,11877
+3937,11873
+3925,11869
+3912,11863
+3897,11855
+3882,11845
+3864,11833
+3845,11816
+3824,11796
+3806,11777
+3791,11759
+3780,11746
+3772,11736
+3767,11729
+3764,11725
+3762,11722
+3760,11719
+3757,11714
+3752,11706
+3745,11693
+3734,11673
+3721,11648
+3706,11617
+3693,11589
+3681,11562
+3672,11541
+3665,11524
+3660,11512
+3657,11504
+3655,11499
+3654,11495
+3652,11491
+3650,11485
+3647,11475
+3643,11461
+3637,11441
+3629,11414
+3619,11380
+3608,11341
+3598,11305
+3590,11270
+3582,11236
+3574,11205
+3568,11176
+3562,11148
+3557,11121
+3552,11096
+3548,11072
+3544,11049
+3540,11028
+3537,11010
+3534,10995
+3532,10984
+3531,10976
+3530,10972
+3530,10970
+3529,10967
+3528,10960
+3526,10947
+3522,10929
+3517,10904
+3511,10873
+3504,10838
+3496,10801
+3489,10764
+3482,10729
+3476,10698
+3471,10673
+3467,10655
+3465,10642
+3464,10635
+3463,10632
+3463,10631
+3462,10628
+3460,10620
+3456,10608
+3452,10591
+3446,10572
+3440,10552
+3433,10532
+3426,10512
+3418,10492
+3408,10472
+3398,10454
+3392,10446
+3387,10439
+3382,10433
+3378,10429
+3375,10426
+3373,10423
+3371,10422
+3369,10420
+3368,10419
+3367,10419
+3366,10419
+3365,10419
+3363,10419
+3361,10420
+3359,10421
+3356,10423
+3352,10425
+3347,10428
+3342,10432
+3337,10437
+3327,10449
+3319,10461
+3314,10470
+3310,10476
+3308,10480
+3307,10482
+3306,10485
+3304,10491
+3300,10502
+3295,10520
+3287,10547
+3278,10581
+3271,10610
+3264,10639
+3258,10667
+3253,10695
+3248,10721
+3244,10746
+3240,10771
+3236,10795
+3232,10817
+3229,10837
+3227,10855
+3225,10868
+3223,10878
+3222,10883
+3222,10886
+3221,10889
+3220,10896
+3217,10909
+3212,10928
+3207,10953
+3200,10984
+3192,11020
+3183,11058
+3174,11095
+3166,11131
+3159,11162
+3154,11187
+3149,11206
+3146,11219
+3145,11226
+3144,11229
+3143,11231
+3142,11235
+3139,11243
+3135,11253
+3130,11267
+3124,11283
+3117,11301
+3109,11320
+3100,11340
+3091,11361
+3080,11383
+3067,11407
+3053,11432
+3037,11458
+3019,11485
+2998,11514
+2980,11538
+2965,11556
+2955,11569
+2948,11577
+2944,11582
+2941,11585
+2938,11588
+2934,11592
+2926,11598
+2914,11607
+2897,11621
+2875,11638
+2848,11656
+2821,11673
+2796,11687
+2778,11697
+2764,11704
+2756,11709
+2750,11711
+2747,11713
+2743,11714
+2737,11716
+2728,11718
+2713,11722
+2691,11728
+2663,11734
+2630,11741
+2600,11746
+2571,11749
+2544,11751
+2520,11752
+2497,11752
+2476,11751
+2455,11750
+2436,11749
+2419,11747
+2403,11746
+2390,11744
+2379,11743
+2372,11742
+2368,11741
+2366,11741
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1920" y="10456" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">+</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2033" y="10456" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">5</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2133" y="10456" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">0</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2560" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">F</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2671" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">i</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2727" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">g</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2827" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">u</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2927" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">r</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2993" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3152" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">4</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3252" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">-</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3319" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">4</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3419" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">:</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3544" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">A</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3759" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">n</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3859" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3947" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">r</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4014" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">v</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4114" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4273" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">i</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4328" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">m</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4484" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">p</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4584" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">u</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4684" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">l</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4739" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">s</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4817" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+</g>
+</svg>

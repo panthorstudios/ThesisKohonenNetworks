@@ -1,0 +1,442 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Sat Jul  4 12:13:26 2015 -->
+<!-- Magnification: 1.000 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="6.0in" height="3.3in" viewBox="111 9225 7237 3949">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Image -->
+<image xlink:href="ch08_0301.eps" preserveAspectRatio="none"
+x="1805" y="9941" width="3850" height="2700" />
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="133,9247
+7326,9247
+7326,12898
+133,12898
+133,9247
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="3779,10202
+4735,9729
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="3731,10226
+3732,10226
+3738,10225
+3752,10224
+3773,10223
+3800,10220
+3827,10218
+3848,10217
+3862,10216
+3868,10215
+3869,10215
+3869,10214
+3868,10211
+3868,10206
+3867,10203
+3867,10202
+3867,10200
+3866,10198
+3865,10195
+3864,10191
+3863,10188
+3863,10186
+3862,10186
+3862,10184
+3861,10181
+3860,10178
+3860,10177
+3859,10176
+3859,10175
+3858,10172
+3857,10169
+3856,10167
+3855,10166
+3855,10165
+3854,10163
+3852,10160
+3851,10158
+3850,10157
+3849,10156
+3848,10154
+3846,10151
+3844,10148
+3843,10147
+3843,10146
+3842,10145
+3840,10142
+3838,10139
+3836,10138
+3836,10137
+3835,10136
+3832,10133
+3829,10129
+3827,10127
+3825,10125
+3824,10123
+3823,10124
+3819,10128
+3810,10138
+3795,10155
+3777,10175
+3760,10194
+3745,10211
+3736,10221
+3732,10225
+3731,10226
+" style="stroke:#000000;stroke-width:0;
+stroke-linejoin:bevel; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="1230,9325
+2564,9325
+2564,10133
+1230,10133
+1230,9325
+" style="stroke:#ffffff;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1291" y="9547" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">N</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1422" y="9547" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">O</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1553" y="9547" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">N</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1685" y="9547" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">P</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1786" y="9547" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">R</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1907" y="9547" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">I</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1968" y="9547" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">M</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2129" y="9547" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">A</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2261" y="9547" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">R</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2372" y="9547" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">Y</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1570" y="9785" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">M</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1732" y="9785" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">O</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1863" y="9785" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">T</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1971" y="9785" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">O</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2102" y="9785" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">R</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1539" y="10024" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">C</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1660" y="10024" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">O</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1791" y="10024" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">R</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1902" y="10024" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">T</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2013" y="10024" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">E</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2124" y="10024" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">X</text>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4685,9322
+5718,9322
+5718,10135
+4685,10135
+4685,9322
+" style="stroke:#ffffff;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4752" y="9546" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">P</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4863" y="9546" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">R</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4996" y="9546" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">I</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5063" y="9546" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">M</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5241" y="9546" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">A</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5385" y="9546" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">R</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5507" y="9546" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">Y</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4843" y="9786" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">M</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5020" y="9786" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">O</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5165" y="9786" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">T</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5283" y="9786" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">O</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5427" y="9786" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">R</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4808" y="10026" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">C</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4941" y="10026" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">O</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5086" y="10026" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">R</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5207" y="10026" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">T</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5329" y="10026" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">E</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5451" y="10026" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">X</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1651" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">F</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1762" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">i</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1818" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">g</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1918" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">u</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2018" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">r</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2084" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2243" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">8</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2343" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">-</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2410" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">3</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2510" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">:</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2635" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">T</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2757" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">h</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2857" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3016" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">m</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3172" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">o</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3272" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">t</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3327" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">o</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3427" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">r</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3564" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">a</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3653" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">r</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3719" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3808" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">a</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3897" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">s</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4045" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">o</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4145" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">f</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4281" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">t</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4337" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">h</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4437" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4595" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">c</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4684" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4773" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">r</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4840" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4928" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">b</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5028" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">r</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5095" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">a</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5184" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">l</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5309" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">c</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5398" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">o</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5498" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">r</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5565" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">t</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5620" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5709" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">x</text>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2905,10254
+2314,9692
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="2946,10293
+2946,10292
+2943,10287
+2937,10274
+2928,10254
+2917,10230
+2906,10206
+2897,10186
+2891,10173
+2888,10168
+2888,10167
+2887,10167
+2885,10169
+2880,10172
+2878,10174
+2877,10174
+2876,10175
+2874,10176
+2871,10178
+2868,10180
+2865,10182
+2864,10183
+2863,10183
+2862,10184
+2859,10186
+2856,10188
+2855,10189
+2854,10190
+2852,10192
+2850,10194
+2848,10196
+2847,10197
+2846,10198
+2844,10200
+2843,10202
+2841,10204
+2840,10205
+2839,10206
+2838,10208
+2836,10211
+2834,10214
+2833,10215
+2833,10216
+2832,10217
+2830,10220
+2828,10223
+2827,10225
+2826,10227
+2824,10230
+2822,10234
+2820,10237
+2818,10239
+2817,10241
+2818,10241
+2823,10244
+2836,10249
+2857,10257
+2882,10267
+2906,10277
+2927,10285
+2940,10290
+2945,10293
+2946,10293
+" style="stroke:#000000;stroke-width:0;
+stroke-linejoin:bevel; stroke-linecap:butt;
+fill:#000000;
+"/>
+</g>
+</svg>

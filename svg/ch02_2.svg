@@ -1,0 +1,5756 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Sat Jul  4 12:13:13 2015 -->
+<!-- Magnification: 1.000 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="6.0in" height="4.0in" viewBox="111 8315 7244 4859">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="133,12837
+7333,12837
+7333,8587
+133,8587
+133,12837
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5918,11964
+1252,11964
+" style="stroke:#000000;stroke-width:45;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="3747,11403
+4181,11620
+4181,11620
+3747,11837
+3747,11403
+" style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="3747,11403
+4181,11620
+4181,11620
+3747,11837
+3747,11403
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="3372,11520
+3856,11520
+3856,11720
+3372,11720
+3372,11520
+" style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="3372,11520
+3856,11520
+3856,11720
+3372,11720
+3372,11520
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1309" y="11177" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">D</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1453" y="11177" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">Y</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1597" y="11177" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">N</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1742" y="11177" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">A</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1886" y="11177" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">M</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2064" y="11177" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">I</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2130" y="11177" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">C</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2333" y="11177" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">A</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2478" y="11177" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">P</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2589" y="11177" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">P</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2700" y="11177" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">R</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2833" y="11177" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">O</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2978" y="11177" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">A</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3122" y="11177" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">C</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3255" y="11177" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">H</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1320" y="12194" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">M</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1498" y="12194" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">A</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1642" y="12194" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">S</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1754" y="12194" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">S</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1935" y="12194" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">=</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2117" y="12194" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">9</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2217" y="12194" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">0</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2317" y="12194" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">0</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2487" y="12194" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">k</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2587" y="12194" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">g</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1320" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">A</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1465" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">C</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1598" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">C</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1731" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">E</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1854" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">L</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1976" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">E</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2098" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">R</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2231" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">A</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2368" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">T</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2490" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">I</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2557" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">O</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2701" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">N</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2916" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">=</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3098" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">5</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3268" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">m</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3424" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">/</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3479" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">s</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3557" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3646" y="12434" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">c</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1320" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">G</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1465" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">R</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1598" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">A</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1732" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">V</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1877" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">I</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1943" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">T</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2065" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">Y</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2280" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">=</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2462" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">-</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2529" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">9</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2629" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">.</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2679" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">8</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2849" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">m</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3004" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">/</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3060" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">s</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3138" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3227" y="12674" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">c</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3322" y="12611" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">2</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3746" y="12359" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="168" text-anchor="start">2</text>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="1868,11929
+1869,11929
+1872,11929
+1878,11928
+1881,11928
+1882,11928
+1884,11928
+1886,11927
+1890,11926
+1894,11925
+1898,11924
+1900,11923
+1902,11922
+1906,11920
+1910,11918
+1911,11917
+1912,11917
+1913,11916
+1917,11913
+1921,11910
+1923,11908
+1926,11905
+1927,11904
+1927,11903
+1930,11901
+1933,11897
+1936,11895
+1936,11894
+1937,11892
+1939,11890
+1941,11887
+1943,11883
+1945,11879
+1946,11877
+1947,11875
+1948,11871
+1949,11867
+1950,11865
+1950,11863
+1951,11859
+1952,11854
+1952,11850
+1952,11847
+1952,11845
+1952,11844
+1952,11841
+1951,11836
+1951,11833
+1951,11832
+1951,11830
+1950,11827
+1949,11823
+1948,11819
+1947,11815
+1946,11814
+1946,11813
+1945,11812
+1943,11808
+1941,11804
+1940,11803
+1940,11802
+1939,11801
+1936,11797
+1933,11793
+1931,11791
+1928,11788
+1927,11787
+1926,11787
+1924,11784
+1920,11781
+1918,11778
+1917,11778
+1915,11777
+1913,11775
+1910,11773
+1906,11771
+1902,11769
+1900,11768
+1898,11767
+1894,11766
+1890,11765
+1888,11764
+1886,11764
+1882,11763
+1877,11762
+1873,11762
+1870,11762
+1868,11762
+1867,11762
+1864,11762
+1859,11763
+1856,11763
+1855,11763
+1853,11763
+1850,11764
+1846,11765
+1842,11766
+1838,11767
+1837,11768
+1836,11768
+1835,11769
+1831,11771
+1827,11773
+1826,11774
+1825,11774
+1824,11775
+1820,11778
+1816,11781
+1813,11783
+1811,11786
+1809,11787
+1809,11788
+1807,11790
+1803,11794
+1801,11796
+1801,11797
+1800,11799
+1798,11801
+1796,11804
+1794,11808
+1792,11812
+1791,11813
+1791,11814
+1790,11815
+1789,11819
+1788,11823
+1787,11825
+1787,11826
+1787,11828
+1786,11832
+1785,11837
+1785,11840
+1785,11843
+1785,11845
+1785,11846
+1785,11849
+1786,11855
+1786,11858
+1786,11859
+1786,11861
+1787,11863
+1788,11867
+1789,11871
+1790,11875
+1791,11877
+1792,11879
+1794,11883
+1796,11887
+1797,11888
+1797,11889
+1799,11890
+1801,11894
+1804,11898
+1806,11900
+1808,11903
+1809,11904
+1810,11904
+1812,11907
+1817,11910
+1819,11913
+1820,11913
+1822,11914
+1824,11916
+1827,11918
+1831,11920
+1835,11922
+1836,11923
+1837,11923
+1838,11924
+1842,11925
+1846,11926
+1848,11927
+1849,11927
+1851,11927
+1855,11928
+1860,11929
+1863,11929
+1866,11929
+1868,11929
+" style="stroke:#000000;stroke-width:0;
+stroke-linejoin:bevel; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="1868,11929
+1869,11929
+1872,11929
+1878,11928
+1881,11928
+1882,11928
+1884,11928
+1886,11927
+1890,11926
+1894,11925
+1898,11924
+1900,11923
+1902,11922
+1906,11920
+1910,11918
+1911,11917
+1912,11917
+1913,11916
+1917,11913
+1921,11910
+1923,11908
+1926,11905
+1927,11904
+1927,11903
+1930,11901
+1933,11897
+1936,11895
+1936,11894
+1937,11892
+1939,11890
+1941,11887
+1943,11883
+1945,11879
+1946,11877
+1947,11875
+1948,11871
+1949,11867
+1950,11865
+1950,11863
+1951,11859
+1952,11854
+1952,11850
+1952,11847
+1952,11845
+1952,11844
+1952,11841
+1951,11836
+1951,11833
+1951,11832
+1951,11830
+1950,11827
+1949,11823
+1948,11819
+1947,11815
+1946,11814
+1946,11813
+1945,11812
+1943,11808
+1941,11804
+1940,11803
+1940,11802
+1939,11801
+1936,11797
+1933,11793
+1931,11791
+1928,11788
+1927,11787
+1926,11787
+1924,11784
+1920,11781
+1918,11778
+1917,11778
+1915,11777
+1913,11775
+1910,11773
+1906,11771
+1902,11769
+1900,11768
+1898,11767
+1894,11766
+1890,11765
+1888,11764
+1886,11764
+1882,11763
+1877,11762
+1873,11762
+1870,11762
+1868,11762
+1867,11762
+1864,11762
+1859,11763
+1856,11763
+1855,11763
+1853,11763
+1850,11764
+1846,11765
+1842,11766
+1838,11767
+1837,11768
+1836,11768
+1835,11769
+1831,11771
+1827,11773
+1826,11774
+1825,11774
+1824,11775
+1820,11778
+1816,11781
+1813,11783
+1811,11786
+1809,11787
+1809,11788
+1807,11790
+1803,11794
+1801,11796
+1801,11797
+1800,11799
+1798,11801
+1796,11804
+1794,11808
+1792,11812
+1791,11813
+1791,11814
+1790,11815
+1789,11819
+1788,11823
+1787,11825
+1787,11826
+1787,11828
+1786,11832
+1785,11837
+1785,11840
+1785,11843
+1785,11845
+1785,11846
+1785,11849
+1786,11855
+1786,11858
+1786,11859
+1786,11861
+1787,11863
+1788,11867
+1789,11871
+1790,11875
+1791,11877
+1792,11879
+1794,11883
+1796,11887
+1797,11888
+1797,11889
+1799,11890
+1801,11894
+1804,11898
+1806,11900
+1808,11903
+1809,11904
+1810,11904
+1812,11907
+1817,11910
+1819,11913
+1820,11913
+1822,11914
+1824,11916
+1827,11918
+1831,11920
+1835,11922
+1836,11923
+1837,11923
+1838,11924
+1842,11925
+1846,11926
+1848,11927
+1849,11927
+1851,11927
+1855,11928
+1860,11929
+1863,11929
+1866,11929
+1868,11929
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="2451,11929
+2452,11929
+2455,11929
+2460,11928
+2463,11928
+2464,11928
+2466,11928
+2469,11927
+2472,11926
+2477,11925
+2481,11924
+2483,11923
+2485,11922
+2489,11920
+2493,11918
+2494,11917
+2495,11917
+2496,11916
+2500,11913
+2504,11910
+2506,11908
+2509,11905
+2510,11904
+2510,11903
+2513,11901
+2516,11897
+2519,11895
+2519,11894
+2520,11892
+2521,11890
+2523,11887
+2525,11883
+2527,11879
+2528,11877
+2529,11875
+2530,11871
+2531,11867
+2532,11865
+2532,11863
+2533,11859
+2534,11854
+2534,11850
+2534,11847
+2534,11845
+2534,11844
+2534,11841
+2533,11836
+2533,11833
+2533,11832
+2533,11830
+2532,11827
+2531,11823
+2530,11819
+2529,11815
+2528,11814
+2528,11813
+2527,11812
+2525,11808
+2523,11804
+2522,11803
+2522,11802
+2521,11801
+2519,11797
+2516,11793
+2514,11791
+2512,11788
+2510,11787
+2509,11787
+2507,11784
+2503,11781
+2501,11778
+2500,11778
+2498,11777
+2496,11775
+2493,11773
+2489,11771
+2485,11769
+2483,11768
+2481,11767
+2477,11766
+2473,11765
+2471,11764
+2470,11764
+2468,11764
+2464,11763
+2459,11762
+2456,11762
+2453,11762
+2451,11762
+2450,11762
+2447,11762
+2442,11763
+2439,11763
+2438,11763
+2436,11763
+2433,11764
+2430,11765
+2425,11766
+2421,11767
+2419,11768
+2417,11769
+2413,11771
+2409,11773
+2408,11774
+2407,11774
+2406,11775
+2402,11778
+2398,11781
+2396,11783
+2393,11786
+2392,11787
+2392,11788
+2389,11790
+2386,11794
+2383,11796
+2383,11797
+2382,11799
+2380,11801
+2378,11804
+2376,11808
+2374,11812
+2374,11813
+2374,11814
+2373,11815
+2372,11819
+2371,11823
+2370,11825
+2370,11826
+2370,11828
+2369,11832
+2368,11837
+2368,11840
+2368,11843
+2368,11845
+2368,11846
+2368,11849
+2369,11855
+2369,11858
+2369,11859
+2369,11861
+2370,11863
+2371,11867
+2372,11871
+2373,11875
+2374,11877
+2374,11879
+2376,11883
+2378,11887
+2379,11888
+2379,11889
+2380,11890
+2383,11894
+2386,11898
+2388,11900
+2391,11903
+2392,11904
+2393,11904
+2395,11907
+2399,11910
+2401,11913
+2402,11913
+2404,11914
+2406,11916
+2409,11918
+2413,11920
+2417,11922
+2419,11923
+2421,11924
+2425,11925
+2429,11926
+2431,11927
+2432,11927
+2434,11927
+2438,11928
+2443,11929
+2446,11929
+2449,11929
+2451,11929
+" style="stroke:#000000;stroke-width:0;
+stroke-linejoin:bevel; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="2451,11929
+2452,11929
+2455,11929
+2460,11928
+2463,11928
+2464,11928
+2466,11928
+2469,11927
+2472,11926
+2477,11925
+2481,11924
+2483,11923
+2485,11922
+2489,11920
+2493,11918
+2494,11917
+2495,11917
+2496,11916
+2500,11913
+2504,11910
+2506,11908
+2509,11905
+2510,11904
+2510,11903
+2513,11901
+2516,11897
+2519,11895
+2519,11894
+2520,11892
+2521,11890
+2523,11887
+2525,11883
+2527,11879
+2528,11877
+2529,11875
+2530,11871
+2531,11867
+2532,11865
+2532,11863
+2533,11859
+2534,11854
+2534,11850
+2534,11847
+2534,11845
+2534,11844
+2534,11841
+2533,11836
+2533,11833
+2533,11832
+2533,11830
+2532,11827
+2531,11823
+2530,11819
+2529,11815
+2528,11814
+2528,11813
+2527,11812
+2525,11808
+2523,11804
+2522,11803
+2522,11802
+2521,11801
+2519,11797
+2516,11793
+2514,11791
+2512,11788
+2510,11787
+2509,11787
+2507,11784
+2503,11781
+2501,11778
+2500,11778
+2498,11777
+2496,11775
+2493,11773
+2489,11771
+2485,11769
+2483,11768
+2481,11767
+2477,11766
+2473,11765
+2471,11764
+2470,11764
+2468,11764
+2464,11763
+2459,11762
+2456,11762
+2453,11762
+2451,11762
+2450,11762
+2447,11762
+2442,11763
+2439,11763
+2438,11763
+2436,11763
+2433,11764
+2430,11765
+2425,11766
+2421,11767
+2419,11768
+2417,11769
+2413,11771
+2409,11773
+2408,11774
+2407,11774
+2406,11775
+2402,11778
+2398,11781
+2396,11783
+2393,11786
+2392,11787
+2392,11788
+2389,11790
+2386,11794
+2383,11796
+2383,11797
+2382,11799
+2380,11801
+2378,11804
+2376,11808
+2374,11812
+2374,11813
+2374,11814
+2373,11815
+2372,11819
+2371,11823
+2370,11825
+2370,11826
+2370,11828
+2369,11832
+2368,11837
+2368,11840
+2368,11843
+2368,11845
+2368,11846
+2368,11849
+2369,11855
+2369,11858
+2369,11859
+2369,11861
+2370,11863
+2371,11867
+2372,11871
+2373,11875
+2374,11877
+2374,11879
+2376,11883
+2378,11887
+2379,11888
+2379,11889
+2380,11890
+2383,11894
+2386,11898
+2388,11900
+2391,11903
+2392,11904
+2393,11904
+2395,11907
+2399,11910
+2401,11913
+2402,11913
+2404,11914
+2406,11916
+2409,11918
+2413,11920
+2417,11922
+2419,11923
+2421,11924
+2425,11925
+2429,11926
+2431,11927
+2432,11927
+2434,11927
+2438,11928
+2443,11929
+2446,11929
+2449,11929
+2451,11929
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="1986,11866
+1986,11864
+1984,11855
+1982,11842
+1980,11833
+1980,11831
+1980,11830
+1979,11826
+1977,11819
+1975,11811
+1971,11801
+1967,11792
+1966,11789
+1965,11787
+1964,11784
+1959,11777
+1954,11770
+1952,11768
+1951,11767
+1948,11765
+1942,11760
+1935,11755
+1930,11751
+1925,11749
+1923,11747
+1922,11747
+1921,11747
+1916,11745
+1907,11742
+1902,11740
+1901,11740
+1900,11740
+1898,11739
+1893,11738
+1887,11737
+1879,11736
+1872,11735
+1869,11735
+1868,11735
+1865,11735
+1858,11736
+1851,11737
+1848,11737
+1847,11738
+1844,11738
+1837,11740
+1829,11742
+1824,11744
+1819,11746
+1817,11747
+1816,11747
+1815,11748
+1810,11751
+1803,11755
+1798,11758
+1797,11759
+1794,11761
+1791,11765
+1786,11769
+1781,11776
+1776,11783
+1775,11785
+1774,11786
+1773,11789
+1769,11797
+1766,11805
+1764,11809
+1764,11810
+1763,11814
+1760,11823
+1757,11834
+1756,11842
+1755,11849
+1754,11853
+1754,11854
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="2567,11866
+2567,11864
+2565,11855
+2564,11842
+2562,11833
+2562,11831
+2562,11830
+2561,11826
+2559,11819
+2557,11811
+2553,11801
+2549,11792
+2547,11789
+2547,11787
+2545,11784
+2540,11777
+2535,11770
+2533,11768
+2532,11767
+2530,11765
+2524,11760
+2517,11755
+2512,11751
+2507,11749
+2505,11747
+2504,11747
+2503,11747
+2497,11745
+2489,11742
+2483,11740
+2482,11740
+2481,11740
+2479,11739
+2474,11738
+2469,11737
+2461,11736
+2454,11735
+2451,11735
+2450,11735
+2447,11735
+2440,11736
+2433,11737
+2430,11737
+2429,11738
+2426,11738
+2419,11740
+2411,11742
+2406,11744
+2401,11746
+2399,11747
+2398,11747
+2397,11748
+2392,11751
+2385,11755
+2380,11758
+2379,11759
+2376,11761
+2373,11765
+2368,11769
+2363,11776
+2358,11783
+2357,11785
+2356,11786
+2355,11789
+2351,11797
+2347,11805
+2346,11809
+2345,11810
+2344,11814
+2341,11823
+2339,11834
+2337,11842
+2336,11849
+2336,11853
+2336,11854
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2353,11854
+1994,11854
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2207,11562
+2007,11562
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="1623,11808
+1748,11845
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="1640,11650
+1623,11804
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="1757,11654
+1640,11658
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2007,11562
+1748,11654
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2382,11645
+2207,11562
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2173,11587
+2036,11587
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2036,11587
+1785,11679
+2346,11679
+2173,11587
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2032,11670
+2036,11587
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2178,11675
+2165,11591
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="2353,11641
+2352,11642
+2351,11643
+2351,11644
+2352,11645
+2353,11645
+2354,11645
+2355,11645
+2356,11645
+2358,11645
+2360,11645
+2362,11645
+2363,11645
+2364,11645
+2365,11645
+2367,11645
+2371,11646
+2373,11646
+2374,11646
+2376,11646
+2379,11647
+2384,11647
+2391,11648
+2398,11649
+2401,11649
+2402,11649
+2406,11650
+2414,11651
+2423,11652
+2427,11653
+2428,11653
+2432,11654
+2443,11656
+2453,11658
+2462,11659
+2469,11660
+2475,11661
+2478,11662
+2479,11662
+2480,11662
+2487,11663
+2499,11666
+2510,11668
+2517,11669
+2518,11669
+2519,11669
+2522,11670
+2528,11671
+2536,11672
+2546,11674
+2558,11676
+2570,11678
+2576,11679
+2578,11680
+2580,11680
+2586,11682
+2598,11684
+2610,11687
+2616,11688
+2618,11688
+2621,11689
+2627,11690
+2639,11693
+2652,11696
+2662,11698
+2670,11700
+2677,11701
+2680,11702
+2681,11702
+2682,11702
+2688,11704
+2700,11707
+2712,11710
+2718,11712
+2719,11712
+2720,11712
+2724,11714
+2730,11716
+2738,11719
+2748,11723
+2756,11727
+2759,11729
+2760,11730
+2763,11732
+2769,11736
+2774,11741
+2777,11742
+2777,11743
+2779,11745
+2782,11750
+2785,11756
+2786,11760
+2786,11763
+2786,11766
+2786,11767
+2785,11771
+2785,11777
+2784,11781
+2784,11782
+2783,11784
+2782,11788
+2781,11792
+2778,11797
+2775,11801
+2774,11803
+2773,11803
+2772,11805
+2768,11809
+2764,11813
+2762,11815
+2761,11816
+2759,11817
+2754,11821
+2748,11825
+2743,11828
+2739,11830
+2737,11831
+2736,11831
+2735,11831
+2729,11833
+2720,11837
+2714,11839
+2713,11839
+2712,11839
+2709,11840
+2703,11842
+2695,11844
+2683,11846
+2673,11848
+2668,11848
+2666,11848
+2664,11848
+2658,11849
+2647,11850
+2635,11851
+2629,11852
+2627,11852
+2624,11852
+2617,11852
+2604,11853
+2589,11854
+2578,11854
+2568,11854
+2560,11854
+2556,11854
+2555,11854
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5323,11375
+5334,11375
+5334,11964
+5323,11964
+5323,11375
+" style="stroke:#191919;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#191919;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5334,11375
+5345,11375
+5345,11964
+5334,11964
+5334,11375
+" style="stroke:#1c1c1c;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#1c1c1c;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5345,11375
+5355,11375
+5355,11964
+5345,11964
+5345,11375
+" style="stroke:#202020;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#202020;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5355,11375
+5366,11375
+5366,11964
+5355,11964
+5355,11375
+" style="stroke:#232323;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#232323;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5366,11375
+5377,11375
+5377,11964
+5366,11964
+5366,11375
+" style="stroke:#262626;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#262626;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5377,11375
+5388,11375
+5388,11964
+5377,11964
+5377,11375
+" style="stroke:#2a2a2a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#2a2a2a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5388,11375
+5398,11375
+5398,11964
+5388,11964
+5388,11375
+" style="stroke:#2d2d2d;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#2d2d2d;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5398,11375
+5409,11375
+5409,11964
+5398,11964
+5398,11375
+" style="stroke:#303030;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#303030;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5409,11375
+5420,11375
+5420,11964
+5409,11964
+5409,11375
+" style="stroke:#343434;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#343434;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5420,11375
+5431,11375
+5431,11964
+5420,11964
+5420,11375
+" style="stroke:#373737;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#373737;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5431,11375
+5442,11375
+5442,11964
+5431,11964
+5431,11375
+" style="stroke:#3a3a3a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#3a3a3a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5442,11375
+5452,11375
+5452,11964
+5442,11964
+5442,11375
+" style="stroke:#3e3e3e;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#3e3e3e;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5452,11375
+5463,11375
+5463,11964
+5452,11964
+5452,11375
+" style="stroke:#414141;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#414141;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5463,11375
+5474,11375
+5474,11964
+5463,11964
+5463,11375
+" style="stroke:#444444;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#444444;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5474,11375
+5485,11375
+5485,11964
+5474,11964
+5474,11375
+" style="stroke:#474747;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#474747;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5485,11375
+5496,11375
+5496,11964
+5485,11964
+5485,11375
+" style="stroke:#4b4b4b;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4b4b4b;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5496,11375
+5506,11375
+5506,11964
+5496,11964
+5496,11375
+" style="stroke:#4e4e4e;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4e4e4e;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5506,11375
+5517,11375
+5517,11964
+5506,11964
+5506,11375
+" style="stroke:#515151;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#515151;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5517,11375
+5528,11375
+5528,11964
+5517,11964
+5517,11375
+" style="stroke:#555555;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#555555;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5528,11375
+5539,11375
+5539,11964
+5528,11964
+5528,11375
+" style="stroke:#585858;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#585858;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5539,11375
+5550,11375
+5550,11964
+5539,11964
+5539,11375
+" style="stroke:#5b5b5b;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#5b5b5b;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5550,11375
+5560,11375
+5560,11964
+5550,11964
+5550,11375
+" style="stroke:#5f5f5f;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#5f5f5f;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5560,11375
+5571,11375
+5571,11964
+5560,11964
+5560,11375
+" style="stroke:#626262;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#626262;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5571,11375
+5582,11375
+5582,11964
+5571,11964
+5571,11375
+" style="stroke:#656565;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#656565;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5582,11375
+5593,11375
+5593,11964
+5582,11964
+5582,11375
+" style="stroke:#696969;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#696969;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5593,11375
+5604,11375
+5604,11964
+5593,11964
+5593,11375
+" style="stroke:#6c6c6c;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#6c6c6c;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5604,11375
+5614,11375
+5614,11964
+5604,11964
+5604,11375
+" style="stroke:#6f6f6f;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#6f6f6f;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5614,11375
+5625,11375
+5625,11964
+5614,11964
+5614,11375
+" style="stroke:#737373;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#737373;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5625,11375
+5636,11375
+5636,11964
+5625,11964
+5625,11375
+" style="stroke:#767676;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#767676;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5636,11375
+5647,11375
+5647,11964
+5636,11964
+5636,11375
+" style="stroke:#797979;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#797979;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5647,11375
+5658,11375
+5658,11964
+5647,11964
+5647,11375
+" style="stroke:#7d7d7d;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7d7d7d;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5658,11375
+5668,11375
+5668,11964
+5658,11964
+5658,11375
+" style="stroke:#808080;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#808080;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5668,11375
+5679,11375
+5679,11964
+5668,11964
+5668,11375
+" style="stroke:#838383;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#838383;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5679,11375
+5690,11375
+5690,11964
+5679,11964
+5679,11375
+" style="stroke:#878787;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#878787;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5690,11375
+5701,11375
+5701,11964
+5690,11964
+5690,11375
+" style="stroke:#8a8a8a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#8a8a8a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5701,11375
+5711,11375
+5711,11964
+5701,11964
+5701,11375
+" style="stroke:#8d8d8d;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#8d8d8d;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5711,11375
+5722,11375
+5722,11964
+5711,11964
+5711,11375
+" style="stroke:#909090;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#909090;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5722,11375
+5733,11375
+5733,11964
+5722,11964
+5722,11375
+" style="stroke:#949494;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#949494;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5733,11375
+5744,11375
+5744,11964
+5733,11964
+5733,11375
+" style="stroke:#979797;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#979797;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5744,11375
+5755,11375
+5755,11964
+5744,11964
+5744,11375
+" style="stroke:#9a9a9a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#9a9a9a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5755,11375
+5765,11375
+5765,11964
+5755,11964
+5755,11375
+" style="stroke:#9e9e9e;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#9e9e9e;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5765,11375
+5776,11375
+5776,11964
+5765,11964
+5765,11375
+" style="stroke:#a1a1a1;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#a1a1a1;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5776,11375
+5787,11375
+5787,11964
+5776,11964
+5776,11375
+" style="stroke:#a4a4a4;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#a4a4a4;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5787,11375
+5798,11375
+5798,11964
+5787,11964
+5787,11375
+" style="stroke:#a8a8a8;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#a8a8a8;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5798,11375
+5809,11375
+5809,11964
+5798,11964
+5798,11375
+" style="stroke:#ababab;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ababab;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5809,11375
+5819,11375
+5819,11964
+5809,11964
+5809,11375
+" style="stroke:#aeaeae;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#aeaeae;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5819,11375
+5830,11375
+5830,11964
+5819,11964
+5819,11375
+" style="stroke:#b2b2b2;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#b2b2b2;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5830,11375
+5841,11375
+5841,11964
+5830,11964
+5830,11375
+" style="stroke:#b5b5b5;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#b5b5b5;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5841,11375
+5852,11375
+5852,11964
+5841,11964
+5841,11375
+" style="stroke:#b8b8b8;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#b8b8b8;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5852,11375
+5863,11375
+5863,11964
+5852,11964
+5852,11375
+" style="stroke:#bcbcbc;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#bcbcbc;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5863,11375
+5873,11375
+5873,11964
+5863,11964
+5863,11375
+" style="stroke:#bfbfbf;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#bfbfbf;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5873,11375
+5884,11375
+5884,11964
+5873,11964
+5873,11375
+" style="stroke:#c2c2c2;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#c2c2c2;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5884,11375
+5895,11375
+5895,11964
+5884,11964
+5884,11375
+" style="stroke:#c6c6c6;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#c6c6c6;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5895,11375
+5906,11375
+5906,11964
+5895,11964
+5895,11375
+" style="stroke:#c9c9c9;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#c9c9c9;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5906,11375
+5916,11375
+5916,11964
+5906,11964
+5906,11375
+" style="stroke:#cccccc;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#cccccc;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5916,11375
+5927,11375
+5927,11964
+5916,11964
+5916,11375
+" style="stroke:#d0d0d0;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d0d0d0;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5927,11375
+5938,11375
+5938,11964
+5927,11964
+5927,11375
+" style="stroke:#d3d3d3;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d3d3d3;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5938,11375
+5949,11375
+5949,11964
+5938,11964
+5938,11375
+" style="stroke:#d6d6d6;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d6d6d6;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5949,11375
+5960,11375
+5960,11964
+5949,11964
+5949,11375
+" style="stroke:#d9d9d9;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d9d9d9;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5960,11375
+5970,11375
+5970,11964
+5960,11964
+5960,11375
+" style="stroke:#dddddd;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#dddddd;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5970,11375
+5981,11375
+5981,11964
+5970,11964
+5970,11375
+" style="stroke:#e0e0e0;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e0e0e0;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5981,11375
+5992,11375
+5992,11964
+5981,11964
+5981,11375
+" style="stroke:#e3e3e3;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e3e3e3;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5992,11375
+6003,11375
+6003,11964
+5992,11964
+5992,11375
+" style="stroke:#e7e7e7;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e7e7e7;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="6003,11375
+6014,11375
+6014,11964
+6003,11964
+6003,11375
+" style="stroke:#eaeaea;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#eaeaea;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="6014,11375
+6014,11375
+6014,11964
+6014,11964
+6014,11375
+" style="stroke:#eaeaea;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#eaeaea;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5323,11375
+6014,11375
+6014,11964
+5323,11964
+5323,11375
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4869,11126
+4881,11113
+5681,11913
+5668,11925
+4869,11126
+" style="stroke:#191919;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#191919;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4881,11113
+4894,11101
+5693,11900
+5681,11913
+4881,11113
+" style="stroke:#1c1c1c;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#1c1c1c;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4894,11101
+4906,11088
+5706,11888
+5693,11900
+4894,11101
+" style="stroke:#202020;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#202020;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4906,11088
+4919,11076
+5718,11875
+5706,11888
+4906,11088
+" style="stroke:#232323;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#232323;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4919,11076
+4931,11064
+5731,11863
+5718,11875
+4919,11076
+" style="stroke:#262626;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#262626;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4931,11064
+4944,11051
+5743,11850
+5731,11863
+4931,11064
+" style="stroke:#2a2a2a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#2a2a2a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4944,11051
+4956,11039
+5756,11838
+5743,11850
+4944,11051
+" style="stroke:#2d2d2d;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#2d2d2d;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4956,11039
+4969,11026
+5768,11825
+5756,11838
+4956,11039
+" style="stroke:#303030;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#303030;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4969,11026
+4981,11014
+5781,11813
+5768,11825
+4969,11026
+" style="stroke:#343434;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#343434;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4981,11014
+4994,11001
+5793,11800
+5781,11813
+4981,11014
+" style="stroke:#373737;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#373737;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4994,11001
+5006,10989
+5806,11788
+5793,11800
+4994,11001
+" style="stroke:#3a3a3a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#3a3a3a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5006,10989
+5019,10976
+5818,11775
+5806,11788
+5006,10989
+" style="stroke:#3e3e3e;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#3e3e3e;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5019,10976
+5031,10964
+5831,11763
+5818,11775
+5019,10976
+" style="stroke:#414141;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#414141;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5031,10964
+5044,10951
+5843,11750
+5831,11763
+5031,10964
+" style="stroke:#444444;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#444444;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5044,10951
+5056,10939
+5856,11738
+5843,11750
+5044,10951
+" style="stroke:#474747;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#474747;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5056,10939
+5069,10926
+5868,11725
+5856,11738
+5056,10939
+" style="stroke:#4b4b4b;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4b4b4b;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5069,10926
+5081,10914
+5881,11713
+5868,11725
+5069,10926
+" style="stroke:#4e4e4e;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4e4e4e;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5081,10914
+5094,10901
+5893,11701
+5881,11713
+5081,10914
+" style="stroke:#515151;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#515151;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5094,10901
+5106,10889
+5906,11688
+5893,11701
+5094,10901
+" style="stroke:#555555;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#555555;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5106,10889
+5119,10876
+5918,11676
+5906,11688
+5106,10889
+" style="stroke:#585858;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#585858;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5119,10876
+5131,10864
+5931,11663
+5918,11676
+5119,10876
+" style="stroke:#5b5b5b;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#5b5b5b;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5131,10864
+5144,10851
+5943,11651
+5931,11663
+5131,10864
+" style="stroke:#5f5f5f;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#5f5f5f;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5144,10851
+5156,10839
+5956,11638
+5943,11651
+5144,10851
+" style="stroke:#626262;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#626262;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5156,10839
+5169,10826
+5968,11626
+5956,11638
+5156,10839
+" style="stroke:#656565;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#656565;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5169,10826
+5181,10814
+5981,11613
+5968,11626
+5169,10826
+" style="stroke:#696969;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#696969;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5181,10814
+5194,10801
+5993,11601
+5981,11613
+5181,10814
+" style="stroke:#6c6c6c;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#6c6c6c;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5194,10801
+5206,10789
+6006,11588
+5993,11601
+5194,10801
+" style="stroke:#6f6f6f;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#6f6f6f;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5206,10789
+5219,10776
+6018,11576
+6006,11588
+5206,10789
+" style="stroke:#737373;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#737373;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5219,10776
+5231,10764
+6031,11563
+6018,11576
+5219,10776
+" style="stroke:#767676;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#767676;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5231,10764
+5244,10751
+6043,11551
+6031,11563
+5231,10764
+" style="stroke:#797979;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#797979;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5244,10751
+5256,10739
+6056,11538
+6043,11551
+5244,10751
+" style="stroke:#7d7d7d;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7d7d7d;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5256,10739
+5269,10726
+6068,11526
+6056,11538
+5256,10739
+" style="stroke:#808080;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#808080;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5269,10726
+5281,10714
+6081,11513
+6068,11526
+5269,10726
+" style="stroke:#838383;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#838383;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5281,10714
+5294,10701
+6093,11501
+6081,11513
+5281,10714
+" style="stroke:#878787;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#878787;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5294,10701
+5306,10689
+6105,11488
+6093,11501
+5294,10701
+" style="stroke:#8a8a8a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#8a8a8a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5306,10689
+5319,10676
+6118,11476
+6105,11488
+5306,10689
+" style="stroke:#8d8d8d;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#8d8d8d;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5319,10676
+5331,10664
+6130,11463
+6118,11476
+5319,10676
+" style="stroke:#909090;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#909090;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5331,10664
+5344,10651
+6143,11451
+6130,11463
+5331,10664
+" style="stroke:#949494;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#949494;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5344,10651
+5356,10639
+6155,11438
+6143,11451
+5344,10651
+" style="stroke:#979797;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#979797;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5356,10639
+5369,10626
+6168,11426
+6155,11438
+5356,10639
+" style="stroke:#9a9a9a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#9a9a9a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5369,10626
+5381,10614
+6180,11413
+6168,11426
+5369,10626
+" style="stroke:#9e9e9e;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#9e9e9e;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5381,10614
+5394,10601
+6193,11401
+6180,11413
+5381,10614
+" style="stroke:#a1a1a1;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#a1a1a1;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5394,10601
+5406,10589
+6205,11388
+6193,11401
+5394,10601
+" style="stroke:#a4a4a4;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#a4a4a4;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5406,10589
+5419,10576
+6218,11376
+6205,11388
+5406,10589
+" style="stroke:#a8a8a8;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#a8a8a8;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5419,10576
+5431,10564
+6230,11363
+6218,11376
+5419,10576
+" style="stroke:#ababab;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ababab;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5431,10564
+5444,10551
+6243,11351
+6230,11363
+5431,10564
+" style="stroke:#aeaeae;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#aeaeae;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5444,10551
+5456,10539
+6255,11338
+6243,11351
+5444,10551
+" style="stroke:#b2b2b2;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#b2b2b2;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5456,10539
+5469,10526
+6268,11326
+6255,11338
+5456,10539
+" style="stroke:#b5b5b5;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#b5b5b5;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5469,10526
+5481,10514
+6280,11313
+6268,11326
+5469,10526
+" style="stroke:#b8b8b8;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#b8b8b8;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5481,10514
+5493,10501
+6293,11301
+6280,11313
+5481,10514
+" style="stroke:#bcbcbc;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#bcbcbc;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5493,10501
+5506,10489
+6305,11288
+6293,11301
+5493,10501
+" style="stroke:#bfbfbf;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#bfbfbf;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5506,10489
+5518,10476
+6318,11276
+6305,11288
+5506,10489
+" style="stroke:#c2c2c2;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#c2c2c2;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5518,10476
+5531,10464
+6330,11263
+6318,11276
+5518,10476
+" style="stroke:#c6c6c6;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#c6c6c6;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5531,10464
+5543,10451
+6343,11251
+6330,11263
+5531,10464
+" style="stroke:#c9c9c9;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#c9c9c9;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5543,10451
+5556,10439
+6355,11238
+6343,11251
+5543,10451
+" style="stroke:#cccccc;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#cccccc;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5556,10439
+5568,10426
+6368,11226
+6355,11238
+5556,10439
+" style="stroke:#d0d0d0;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d0d0d0;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5568,10426
+5581,10414
+6380,11213
+6368,11226
+5568,10426
+" style="stroke:#d3d3d3;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d3d3d3;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5581,10414
+5593,10401
+6393,11201
+6380,11213
+5581,10414
+" style="stroke:#d6d6d6;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d6d6d6;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5593,10401
+5606,10389
+6405,11188
+6393,11201
+5593,10401
+" style="stroke:#d9d9d9;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d9d9d9;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5606,10389
+5618,10376
+6418,11176
+6405,11188
+5606,10389
+" style="stroke:#dddddd;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#dddddd;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5618,10376
+5631,10364
+6430,11163
+6418,11176
+5618,10376
+" style="stroke:#e0e0e0;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e0e0e0;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5631,10364
+5643,10351
+6443,11151
+6430,11163
+5631,10364
+" style="stroke:#e3e3e3;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e3e3e3;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5643,10351
+5656,10339
+6455,11138
+6443,11151
+5643,10351
+" style="stroke:#e7e7e7;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e7e7e7;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5656,10339
+5668,10327
+6468,11126
+6455,11138
+5656,10339
+" style="stroke:#eaeaea;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#eaeaea;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5668,10327
+5668,10327
+6468,11126
+6468,11126
+5668,10327
+" style="stroke:#eaeaea;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#eaeaea;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5118,11375
+6218,11375
+5681,10877
+5118,11375
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5924,9987
+1258,9987
+" style="stroke:#000000;stroke-width:45;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="3754,9237
+4187,9453
+4187,9453
+3754,9670
+3754,9237
+" style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="3754,9237
+4187,9453
+4187,9453
+3754,9670
+3754,9237
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="3379,9353
+3862,9353
+3862,9553
+3379,9553
+3379,9353
+" style="stroke:#000000;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="3379,9353
+3862,9353
+3862,9553
+3379,9553
+3379,9353
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1317" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">K</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1461" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">I</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1528" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">N</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1672" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">E</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1794" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">M</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1972" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">A</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2109" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">T</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2231" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">I</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2297" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">C</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2501" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">A</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2645" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">P</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2756" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">P</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2867" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">R</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3001" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">O</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3145" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">A</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3289" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">C</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3423" y="9060" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">H</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1320" y="10219" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">S</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1431" y="10219" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">P</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1543" y="10219" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">E</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1665" y="10219" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">E</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1787" y="10219" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">D</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2001" y="10219" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">=</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2184" y="10219" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">5</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2284" y="10219" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">0</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2454" y="10219" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">k</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2554" y="10219" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">m</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2709" y="10219" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">/</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2765" y="10219" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">h</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2865" y="10219" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">r</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1320" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">P</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1431" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">O</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1576" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">S</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1687" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">I</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1753" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">T</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1876" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">I</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1942" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">O</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2086" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">N</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2301" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">=</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2483" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">5</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2653" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">k</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2753" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">m</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2979" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">f</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3045" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">r</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3105" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">o</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3205" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">m</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3430" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">h</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3530" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">o</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3630" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">u</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3730" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">s</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3808" y="10459" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="1874,9962
+1875,9962
+1878,9962
+1884,9961
+1887,9961
+1888,9961
+1890,9961
+1893,9960
+1897,9959
+1901,9958
+1905,9957
+1906,9956
+1907,9956
+1908,9955
+1912,9953
+1916,9951
+1917,9950
+1918,9950
+1919,9949
+1923,9947
+1927,9944
+1929,9942
+1932,9940
+1933,9938
+1933,9937
+1936,9935
+1939,9931
+1942,9929
+1942,9928
+1943,9926
+1945,9924
+1947,9921
+1949,9917
+1951,9913
+1952,9911
+1953,9909
+1954,9905
+1955,9901
+1956,9899
+1956,9898
+1956,9896
+1957,9892
+1958,9887
+1958,9884
+1958,9881
+1958,9879
+1958,9878
+1958,9875
+1957,9869
+1957,9866
+1957,9865
+1957,9863
+1956,9861
+1955,9857
+1954,9853
+1953,9849
+1952,9847
+1951,9845
+1949,9841
+1947,9837
+1946,9836
+1946,9835
+1945,9834
+1942,9830
+1939,9826
+1937,9824
+1934,9821
+1933,9820
+1932,9820
+1930,9817
+1926,9814
+1924,9811
+1923,9811
+1921,9810
+1919,9808
+1916,9806
+1912,9804
+1908,9802
+1907,9801
+1906,9801
+1905,9800
+1901,9799
+1897,9798
+1895,9797
+1894,9797
+1892,9797
+1888,9796
+1883,9795
+1879,9795
+1876,9795
+1874,9795
+1873,9795
+1870,9795
+1865,9796
+1862,9796
+1861,9796
+1859,9796
+1857,9797
+1853,9798
+1849,9799
+1845,9800
+1843,9801
+1841,9802
+1837,9804
+1833,9806
+1832,9807
+1831,9807
+1830,9808
+1826,9811
+1822,9814
+1820,9816
+1817,9819
+1816,9820
+1816,9821
+1813,9823
+1810,9827
+1807,9829
+1807,9830
+1806,9832
+1804,9834
+1802,9837
+1800,9841
+1798,9845
+1797,9847
+1796,9849
+1795,9853
+1794,9857
+1793,9859
+1793,9861
+1792,9865
+1791,9870
+1791,9874
+1791,9877
+1791,9879
+1791,9880
+1791,9883
+1792,9888
+1792,9891
+1792,9892
+1792,9894
+1793,9897
+1794,9900
+1795,9905
+1796,9909
+1797,9911
+1798,9913
+1800,9917
+1802,9921
+1803,9922
+1803,9923
+1804,9924
+1807,9928
+1810,9932
+1812,9934
+1815,9937
+1816,9938
+1817,9938
+1819,9941
+1823,9944
+1825,9947
+1826,9947
+1828,9948
+1830,9949
+1833,9951
+1837,9953
+1841,9955
+1843,9956
+1845,9957
+1849,9958
+1853,9959
+1855,9960
+1857,9960
+1861,9961
+1866,9962
+1869,9962
+1872,9962
+1874,9962
+" style="stroke:#000000;stroke-width:0;
+stroke-linejoin:bevel; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="1874,9962
+1875,9962
+1878,9962
+1884,9961
+1887,9961
+1888,9961
+1890,9961
+1893,9960
+1897,9959
+1901,9958
+1905,9957
+1906,9956
+1907,9956
+1908,9955
+1912,9953
+1916,9951
+1917,9950
+1918,9950
+1919,9949
+1923,9947
+1927,9944
+1929,9942
+1932,9940
+1933,9938
+1933,9937
+1936,9935
+1939,9931
+1942,9929
+1942,9928
+1943,9926
+1945,9924
+1947,9921
+1949,9917
+1951,9913
+1952,9911
+1953,9909
+1954,9905
+1955,9901
+1956,9899
+1956,9898
+1956,9896
+1957,9892
+1958,9887
+1958,9884
+1958,9881
+1958,9879
+1958,9878
+1958,9875
+1957,9869
+1957,9866
+1957,9865
+1957,9863
+1956,9861
+1955,9857
+1954,9853
+1953,9849
+1952,9847
+1951,9845
+1949,9841
+1947,9837
+1946,9836
+1946,9835
+1945,9834
+1942,9830
+1939,9826
+1937,9824
+1934,9821
+1933,9820
+1932,9820
+1930,9817
+1926,9814
+1924,9811
+1923,9811
+1921,9810
+1919,9808
+1916,9806
+1912,9804
+1908,9802
+1907,9801
+1906,9801
+1905,9800
+1901,9799
+1897,9798
+1895,9797
+1894,9797
+1892,9797
+1888,9796
+1883,9795
+1879,9795
+1876,9795
+1874,9795
+1873,9795
+1870,9795
+1865,9796
+1862,9796
+1861,9796
+1859,9796
+1857,9797
+1853,9798
+1849,9799
+1845,9800
+1843,9801
+1841,9802
+1837,9804
+1833,9806
+1832,9807
+1831,9807
+1830,9808
+1826,9811
+1822,9814
+1820,9816
+1817,9819
+1816,9820
+1816,9821
+1813,9823
+1810,9827
+1807,9829
+1807,9830
+1806,9832
+1804,9834
+1802,9837
+1800,9841
+1798,9845
+1797,9847
+1796,9849
+1795,9853
+1794,9857
+1793,9859
+1793,9861
+1792,9865
+1791,9870
+1791,9874
+1791,9877
+1791,9879
+1791,9880
+1791,9883
+1792,9888
+1792,9891
+1792,9892
+1792,9894
+1793,9897
+1794,9900
+1795,9905
+1796,9909
+1797,9911
+1798,9913
+1800,9917
+1802,9921
+1803,9922
+1803,9923
+1804,9924
+1807,9928
+1810,9932
+1812,9934
+1815,9937
+1816,9938
+1817,9938
+1819,9941
+1823,9944
+1825,9947
+1826,9947
+1828,9948
+1830,9949
+1833,9951
+1837,9953
+1841,9955
+1843,9956
+1845,9957
+1849,9958
+1853,9959
+1855,9960
+1857,9960
+1861,9961
+1866,9962
+1869,9962
+1872,9962
+1874,9962
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="2457,9962
+2458,9962
+2461,9962
+2467,9961
+2470,9961
+2471,9961
+2473,9961
+2475,9960
+2479,9959
+2483,9958
+2487,9957
+2489,9956
+2491,9955
+2495,9953
+2499,9951
+2500,9950
+2501,9950
+2502,9949
+2506,9947
+2510,9944
+2512,9942
+2515,9940
+2516,9938
+2516,9937
+2519,9935
+2522,9931
+2525,9929
+2525,9928
+2526,9926
+2528,9924
+2530,9921
+2532,9917
+2534,9913
+2535,9911
+2536,9909
+2537,9905
+2538,9901
+2538,9899
+2538,9898
+2538,9896
+2539,9892
+2539,9887
+2540,9884
+2540,9881
+2540,9879
+2540,9878
+2540,9875
+2539,9869
+2539,9866
+2539,9865
+2539,9863
+2539,9861
+2538,9857
+2537,9853
+2536,9849
+2535,9847
+2534,9845
+2532,9841
+2530,9837
+2529,9836
+2529,9835
+2528,9834
+2525,9830
+2522,9826
+2520,9824
+2517,9821
+2516,9820
+2515,9820
+2513,9817
+2509,9814
+2507,9811
+2506,9811
+2504,9810
+2502,9808
+2499,9806
+2495,9804
+2491,9802
+2489,9801
+2487,9800
+2483,9799
+2479,9798
+2477,9797
+2475,9797
+2471,9796
+2466,9795
+2462,9795
+2459,9795
+2457,9795
+2456,9795
+2453,9795
+2448,9796
+2445,9796
+2444,9796
+2442,9796
+2439,9797
+2436,9798
+2431,9799
+2427,9800
+2425,9801
+2423,9802
+2419,9804
+2415,9806
+2414,9807
+2413,9807
+2412,9808
+2408,9811
+2404,9814
+2402,9816
+2399,9819
+2398,9820
+2398,9821
+2395,9823
+2392,9827
+2389,9829
+2389,9830
+2388,9832
+2387,9834
+2385,9837
+2383,9841
+2381,9845
+2380,9847
+2379,9849
+2378,9853
+2377,9857
+2376,9859
+2376,9861
+2375,9865
+2374,9870
+2374,9874
+2374,9877
+2374,9879
+2374,9880
+2374,9883
+2375,9888
+2375,9891
+2375,9892
+2375,9894
+2376,9897
+2377,9900
+2378,9905
+2379,9909
+2380,9911
+2381,9913
+2383,9917
+2385,9921
+2386,9922
+2386,9923
+2387,9924
+2389,9928
+2392,9932
+2394,9934
+2396,9937
+2398,9938
+2399,9938
+2401,9941
+2405,9944
+2407,9947
+2408,9947
+2410,9948
+2412,9949
+2415,9951
+2419,9953
+2423,9955
+2425,9956
+2427,9957
+2431,9958
+2435,9959
+2437,9960
+2438,9960
+2440,9960
+2444,9961
+2449,9962
+2452,9962
+2455,9962
+2457,9962
+" style="stroke:#000000;stroke-width:0;
+stroke-linejoin:bevel; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="2457,9962
+2458,9962
+2461,9962
+2467,9961
+2470,9961
+2471,9961
+2473,9961
+2475,9960
+2479,9959
+2483,9958
+2487,9957
+2489,9956
+2491,9955
+2495,9953
+2499,9951
+2500,9950
+2501,9950
+2502,9949
+2506,9947
+2510,9944
+2512,9942
+2515,9940
+2516,9938
+2516,9937
+2519,9935
+2522,9931
+2525,9929
+2525,9928
+2526,9926
+2528,9924
+2530,9921
+2532,9917
+2534,9913
+2535,9911
+2536,9909
+2537,9905
+2538,9901
+2538,9899
+2538,9898
+2538,9896
+2539,9892
+2539,9887
+2540,9884
+2540,9881
+2540,9879
+2540,9878
+2540,9875
+2539,9869
+2539,9866
+2539,9865
+2539,9863
+2539,9861
+2538,9857
+2537,9853
+2536,9849
+2535,9847
+2534,9845
+2532,9841
+2530,9837
+2529,9836
+2529,9835
+2528,9834
+2525,9830
+2522,9826
+2520,9824
+2517,9821
+2516,9820
+2515,9820
+2513,9817
+2509,9814
+2507,9811
+2506,9811
+2504,9810
+2502,9808
+2499,9806
+2495,9804
+2491,9802
+2489,9801
+2487,9800
+2483,9799
+2479,9798
+2477,9797
+2475,9797
+2471,9796
+2466,9795
+2462,9795
+2459,9795
+2457,9795
+2456,9795
+2453,9795
+2448,9796
+2445,9796
+2444,9796
+2442,9796
+2439,9797
+2436,9798
+2431,9799
+2427,9800
+2425,9801
+2423,9802
+2419,9804
+2415,9806
+2414,9807
+2413,9807
+2412,9808
+2408,9811
+2404,9814
+2402,9816
+2399,9819
+2398,9820
+2398,9821
+2395,9823
+2392,9827
+2389,9829
+2389,9830
+2388,9832
+2387,9834
+2385,9837
+2383,9841
+2381,9845
+2380,9847
+2379,9849
+2378,9853
+2377,9857
+2376,9859
+2376,9861
+2375,9865
+2374,9870
+2374,9874
+2374,9877
+2374,9879
+2374,9880
+2374,9883
+2375,9888
+2375,9891
+2375,9892
+2375,9894
+2376,9897
+2377,9900
+2378,9905
+2379,9909
+2380,9911
+2381,9913
+2383,9917
+2385,9921
+2386,9922
+2386,9923
+2387,9924
+2389,9928
+2392,9932
+2394,9934
+2396,9937
+2398,9938
+2399,9938
+2401,9941
+2405,9944
+2407,9947
+2408,9947
+2410,9948
+2412,9949
+2415,9951
+2419,9953
+2423,9955
+2425,9956
+2427,9957
+2431,9958
+2435,9959
+2437,9960
+2438,9960
+2440,9960
+2444,9961
+2449,9962
+2452,9962
+2455,9962
+2457,9962
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="1992,9900
+1992,9899
+1991,9893
+1989,9882
+1987,9871
+1986,9865
+1986,9864
+1986,9863
+1985,9859
+1983,9853
+1981,9845
+1977,9835
+1973,9826
+1972,9823
+1971,9821
+1970,9818
+1965,9811
+1960,9804
+1958,9801
+1957,9801
+1955,9798
+1949,9793
+1942,9788
+1937,9785
+1932,9782
+1930,9781
+1929,9781
+1928,9781
+1922,9779
+1914,9775
+1908,9773
+1907,9773
+1906,9773
+1904,9772
+1899,9772
+1894,9771
+1886,9770
+1879,9770
+1876,9770
+1874,9770
+1871,9770
+1864,9770
+1857,9771
+1854,9771
+1853,9771
+1850,9771
+1843,9773
+1835,9775
+1830,9778
+1825,9779
+1823,9781
+1822,9781
+1821,9782
+1816,9784
+1809,9789
+1804,9791
+1803,9792
+1801,9794
+1797,9798
+1793,9802
+1788,9809
+1783,9816
+1781,9818
+1781,9819
+1779,9822
+1775,9830
+1771,9838
+1770,9842
+1770,9843
+1769,9847
+1766,9856
+1763,9867
+1762,9875
+1761,9882
+1760,9886
+1760,9887
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="2573,9900
+2573,9899
+2572,9893
+2570,9882
+2569,9871
+2568,9865
+2568,9864
+2568,9863
+2567,9859
+2565,9853
+2563,9845
+2559,9835
+2555,9826
+2553,9823
+2553,9821
+2551,9818
+2546,9811
+2541,9804
+2539,9801
+2538,9801
+2536,9798
+2530,9793
+2523,9788
+2518,9785
+2513,9782
+2511,9781
+2510,9781
+2509,9781
+2504,9779
+2495,9775
+2490,9773
+2489,9773
+2488,9773
+2486,9772
+2481,9772
+2475,9771
+2467,9770
+2460,9770
+2457,9770
+2456,9770
+2453,9770
+2446,9770
+2439,9771
+2436,9771
+2435,9771
+2432,9771
+2425,9773
+2417,9775
+2412,9778
+2407,9779
+2405,9781
+2404,9781
+2403,9782
+2398,9784
+2391,9789
+2386,9791
+2385,9792
+2382,9794
+2379,9798
+2374,9802
+2369,9809
+2364,9816
+2363,9818
+2362,9819
+2361,9822
+2357,9830
+2354,9838
+2352,9842
+2352,9843
+2351,9847
+2348,9856
+2345,9867
+2344,9875
+2343,9882
+2342,9886
+2342,9887
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2359,9887
+2001,9887
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2213,9595
+2013,9595
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="1630,9841
+1755,9879
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="1646,9683
+1630,9837
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="1763,9687
+1646,9691
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2013,9595
+1755,9687
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2388,9679
+2213,9595
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2180,9620
+2042,9620
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2042,9620
+1791,9712
+2352,9712
+2180,9620
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2038,9704
+2042,9620
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="2184,9708
+2171,9625
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  spline  -->
+<polyline points="2360,9675
+2359,9675
+2359,9676
+2358,9676
+2358,9677
+2359,9677
+2359,9678
+2360,9678
+2361,9678
+2362,9679
+2364,9679
+2366,9679
+2368,9679
+2369,9679
+2370,9679
+2371,9679
+2373,9679
+2377,9679
+2379,9679
+2380,9679
+2382,9679
+2385,9679
+2390,9680
+2397,9681
+2404,9682
+2407,9683
+2408,9683
+2412,9684
+2420,9685
+2429,9686
+2433,9687
+2434,9687
+2438,9687
+2449,9689
+2459,9691
+2468,9692
+2475,9693
+2481,9694
+2484,9695
+2485,9695
+2486,9695
+2493,9696
+2505,9699
+2516,9701
+2523,9702
+2524,9702
+2525,9702
+2528,9703
+2534,9704
+2542,9706
+2552,9708
+2564,9710
+2576,9712
+2582,9714
+2584,9714
+2586,9714
+2592,9716
+2604,9718
+2616,9720
+2622,9722
+2624,9722
+2627,9722
+2633,9724
+2645,9726
+2658,9729
+2668,9731
+2676,9733
+2683,9734
+2686,9735
+2687,9735
+2688,9735
+2694,9737
+2706,9740
+2718,9743
+2724,9745
+2725,9745
+2726,9745
+2730,9747
+2736,9749
+2744,9752
+2754,9756
+2762,9760
+2765,9762
+2766,9763
+2769,9764
+2775,9769
+2780,9774
+2783,9776
+2783,9777
+2785,9779
+2788,9784
+2791,9790
+2792,9794
+2792,9798
+2792,9800
+2792,9801
+2791,9805
+2791,9810
+2790,9814
+2790,9815
+2789,9817
+2788,9821
+2787,9825
+2784,9830
+2781,9835
+2780,9836
+2779,9837
+2778,9839
+2774,9843
+2770,9847
+2768,9848
+2767,9849
+2765,9850
+2760,9854
+2754,9858
+2749,9860
+2745,9863
+2743,9864
+2742,9864
+2741,9864
+2735,9866
+2726,9870
+2720,9872
+2719,9872
+2718,9872
+2715,9873
+2709,9875
+2701,9877
+2689,9879
+2679,9881
+2674,9881
+2672,9881
+2670,9881
+2664,9882
+2653,9883
+2641,9884
+2635,9885
+2633,9885
+2631,9885
+2624,9885
+2611,9886
+2597,9887
+2585,9887
+2575,9887
+2567,9887
+2563,9887
+2562,9887
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5329,9365
+5340,9365
+5340,9953
+5329,9953
+5329,9365
+" style="stroke:#191919;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#191919;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5340,9365
+5351,9365
+5351,9953
+5340,9953
+5340,9365
+" style="stroke:#1c1c1c;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#1c1c1c;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5351,9365
+5362,9365
+5362,9953
+5351,9953
+5351,9365
+" style="stroke:#202020;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#202020;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5362,9365
+5372,9365
+5372,9953
+5362,9953
+5362,9365
+" style="stroke:#232323;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#232323;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5372,9365
+5383,9365
+5383,9953
+5372,9953
+5372,9365
+" style="stroke:#262626;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#262626;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5383,9365
+5394,9365
+5394,9953
+5383,9953
+5383,9365
+" style="stroke:#2a2a2a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#2a2a2a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5394,9365
+5405,9365
+5405,9953
+5394,9953
+5394,9365
+" style="stroke:#2d2d2d;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#2d2d2d;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5405,9365
+5416,9365
+5416,9953
+5405,9953
+5405,9365
+" style="stroke:#303030;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#303030;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5416,9365
+5426,9365
+5426,9953
+5416,9953
+5416,9365
+" style="stroke:#343434;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#343434;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5426,9365
+5437,9365
+5437,9953
+5426,9953
+5426,9365
+" style="stroke:#373737;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#373737;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5437,9365
+5448,9365
+5448,9953
+5437,9953
+5437,9365
+" style="stroke:#3a3a3a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#3a3a3a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5448,9365
+5459,9365
+5459,9953
+5448,9953
+5448,9365
+" style="stroke:#3e3e3e;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#3e3e3e;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5459,9365
+5469,9365
+5469,9953
+5459,9953
+5459,9365
+" style="stroke:#414141;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#414141;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5469,9365
+5480,9365
+5480,9953
+5469,9953
+5469,9365
+" style="stroke:#444444;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#444444;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5480,9365
+5491,9365
+5491,9953
+5480,9953
+5480,9365
+" style="stroke:#474747;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#474747;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5491,9365
+5502,9365
+5502,9953
+5491,9953
+5491,9365
+" style="stroke:#4b4b4b;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4b4b4b;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5502,9365
+5513,9365
+5513,9953
+5502,9953
+5502,9365
+" style="stroke:#4e4e4e;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4e4e4e;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5513,9365
+5523,9365
+5523,9953
+5513,9953
+5513,9365
+" style="stroke:#515151;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#515151;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5523,9365
+5534,9365
+5534,9953
+5523,9953
+5523,9365
+" style="stroke:#555555;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#555555;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5534,9365
+5545,9365
+5545,9953
+5534,9953
+5534,9365
+" style="stroke:#585858;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#585858;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5545,9365
+5556,9365
+5556,9953
+5545,9953
+5545,9365
+" style="stroke:#5b5b5b;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#5b5b5b;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5556,9365
+5567,9365
+5567,9953
+5556,9953
+5556,9365
+" style="stroke:#5f5f5f;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#5f5f5f;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5567,9365
+5577,9365
+5577,9953
+5567,9953
+5567,9365
+" style="stroke:#626262;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#626262;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5577,9365
+5588,9365
+5588,9953
+5577,9953
+5577,9365
+" style="stroke:#656565;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#656565;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5588,9365
+5599,9365
+5599,9953
+5588,9953
+5588,9365
+" style="stroke:#696969;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#696969;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5599,9365
+5610,9365
+5610,9953
+5599,9953
+5599,9365
+" style="stroke:#6c6c6c;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#6c6c6c;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5610,9365
+5621,9365
+5621,9953
+5610,9953
+5610,9365
+" style="stroke:#6f6f6f;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#6f6f6f;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5621,9365
+5631,9365
+5631,9953
+5621,9953
+5621,9365
+" style="stroke:#737373;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#737373;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5631,9365
+5642,9365
+5642,9953
+5631,9953
+5631,9365
+" style="stroke:#767676;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#767676;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5642,9365
+5653,9365
+5653,9953
+5642,9953
+5642,9365
+" style="stroke:#797979;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#797979;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5653,9365
+5664,9365
+5664,9953
+5653,9953
+5653,9365
+" style="stroke:#7d7d7d;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7d7d7d;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5664,9365
+5674,9365
+5674,9953
+5664,9953
+5664,9365
+" style="stroke:#808080;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#808080;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5674,9365
+5685,9365
+5685,9953
+5674,9953
+5674,9365
+" style="stroke:#838383;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#838383;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5685,9365
+5696,9365
+5696,9953
+5685,9953
+5685,9365
+" style="stroke:#878787;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#878787;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5696,9365
+5707,9365
+5707,9953
+5696,9953
+5696,9365
+" style="stroke:#8a8a8a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#8a8a8a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5707,9365
+5718,9365
+5718,9953
+5707,9953
+5707,9365
+" style="stroke:#8d8d8d;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#8d8d8d;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5718,9365
+5728,9365
+5728,9953
+5718,9953
+5718,9365
+" style="stroke:#909090;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#909090;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5728,9365
+5739,9365
+5739,9953
+5728,9953
+5728,9365
+" style="stroke:#949494;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#949494;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5739,9365
+5750,9365
+5750,9953
+5739,9953
+5739,9365
+" style="stroke:#979797;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#979797;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5750,9365
+5761,9365
+5761,9953
+5750,9953
+5750,9365
+" style="stroke:#9a9a9a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#9a9a9a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5761,9365
+5772,9365
+5772,9953
+5761,9953
+5761,9365
+" style="stroke:#9e9e9e;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#9e9e9e;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5772,9365
+5782,9365
+5782,9953
+5772,9953
+5772,9365
+" style="stroke:#a1a1a1;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#a1a1a1;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5782,9365
+5793,9365
+5793,9953
+5782,9953
+5782,9365
+" style="stroke:#a4a4a4;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#a4a4a4;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5793,9365
+5804,9365
+5804,9953
+5793,9953
+5793,9365
+" style="stroke:#a8a8a8;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#a8a8a8;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5804,9365
+5815,9365
+5815,9953
+5804,9953
+5804,9365
+" style="stroke:#ababab;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ababab;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5815,9365
+5826,9365
+5826,9953
+5815,9953
+5815,9365
+" style="stroke:#aeaeae;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#aeaeae;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5826,9365
+5836,9365
+5836,9953
+5826,9953
+5826,9365
+" style="stroke:#b2b2b2;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#b2b2b2;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5836,9365
+5847,9365
+5847,9953
+5836,9953
+5836,9365
+" style="stroke:#b5b5b5;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#b5b5b5;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5847,9365
+5858,9365
+5858,9953
+5847,9953
+5847,9365
+" style="stroke:#b8b8b8;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#b8b8b8;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5858,9365
+5869,9365
+5869,9953
+5858,9953
+5858,9365
+" style="stroke:#bcbcbc;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#bcbcbc;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5869,9365
+5880,9365
+5880,9953
+5869,9953
+5869,9365
+" style="stroke:#bfbfbf;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#bfbfbf;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5880,9365
+5890,9365
+5890,9953
+5880,9953
+5880,9365
+" style="stroke:#c2c2c2;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#c2c2c2;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5890,9365
+5901,9365
+5901,9953
+5890,9953
+5890,9365
+" style="stroke:#c6c6c6;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#c6c6c6;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5901,9365
+5912,9365
+5912,9953
+5901,9953
+5901,9365
+" style="stroke:#c9c9c9;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#c9c9c9;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5912,9365
+5923,9365
+5923,9953
+5912,9953
+5912,9365
+" style="stroke:#cccccc;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#cccccc;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5923,9365
+5933,9365
+5933,9953
+5923,9953
+5923,9365
+" style="stroke:#d0d0d0;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d0d0d0;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5933,9365
+5944,9365
+5944,9953
+5933,9953
+5933,9365
+" style="stroke:#d3d3d3;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d3d3d3;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5944,9365
+5955,9365
+5955,9953
+5944,9953
+5944,9365
+" style="stroke:#d6d6d6;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d6d6d6;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5955,9365
+5966,9365
+5966,9953
+5955,9953
+5955,9365
+" style="stroke:#d9d9d9;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d9d9d9;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5966,9365
+5977,9365
+5977,9953
+5966,9953
+5966,9365
+" style="stroke:#dddddd;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#dddddd;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5977,9365
+5987,9365
+5987,9953
+5977,9953
+5977,9365
+" style="stroke:#e0e0e0;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e0e0e0;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5987,9365
+5998,9365
+5998,9953
+5987,9953
+5987,9365
+" style="stroke:#e3e3e3;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e3e3e3;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5998,9365
+6009,9365
+6009,9953
+5998,9953
+5998,9365
+" style="stroke:#e7e7e7;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e7e7e7;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="6009,9365
+6020,9365
+6020,9953
+6009,9953
+6009,9365
+" style="stroke:#eaeaea;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#eaeaea;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="6020,9365
+6020,9365
+6020,9953
+6020,9953
+6020,9365
+" style="stroke:#eaeaea;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#eaeaea;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5329,9365
+6020,9365
+6020,9953
+5329,9953
+5329,9365
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4875,9116
+4888,9103
+5687,9903
+5675,9915
+4875,9116
+" style="stroke:#191919;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#191919;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4888,9103
+4900,9091
+5700,9890
+5687,9903
+4888,9103
+" style="stroke:#1c1c1c;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#1c1c1c;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4900,9091
+4913,9078
+5712,9878
+5700,9890
+4900,9091
+" style="stroke:#202020;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#202020;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4913,9078
+4925,9066
+5725,9865
+5712,9878
+4913,9078
+" style="stroke:#232323;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#232323;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4925,9066
+4938,9053
+5737,9853
+5725,9865
+4925,9066
+" style="stroke:#262626;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#262626;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4938,9053
+4950,9041
+5749,9840
+5737,9853
+4938,9053
+" style="stroke:#2a2a2a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#2a2a2a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4950,9041
+4963,9028
+5762,9828
+5749,9840
+4950,9041
+" style="stroke:#2d2d2d;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#2d2d2d;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4963,9028
+4975,9016
+5774,9815
+5762,9828
+4963,9028
+" style="stroke:#303030;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#303030;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4975,9016
+4988,9003
+5787,9803
+5774,9815
+4975,9016
+" style="stroke:#343434;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#343434;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="4988,9003
+5000,8991
+5799,9790
+5787,9803
+4988,9003
+" style="stroke:#373737;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#373737;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5000,8991
+5013,8978
+5812,9778
+5799,9790
+5000,8991
+" style="stroke:#3a3a3a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#3a3a3a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5013,8978
+5025,8966
+5824,9765
+5812,9778
+5013,8978
+" style="stroke:#3e3e3e;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#3e3e3e;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5025,8966
+5037,8953
+5837,9753
+5824,9765
+5025,8966
+" style="stroke:#414141;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#414141;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5037,8953
+5050,8941
+5849,9740
+5837,9753
+5037,8953
+" style="stroke:#444444;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#444444;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5050,8941
+5062,8928
+5862,9728
+5849,9740
+5050,8941
+" style="stroke:#474747;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#474747;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5062,8928
+5075,8916
+5874,9715
+5862,9728
+5062,8928
+" style="stroke:#4b4b4b;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4b4b4b;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5075,8916
+5087,8903
+5887,9703
+5874,9715
+5075,8916
+" style="stroke:#4e4e4e;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4e4e4e;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5087,8903
+5100,8891
+5899,9690
+5887,9703
+5087,8903
+" style="stroke:#515151;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#515151;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5100,8891
+5112,8878
+5912,9678
+5899,9690
+5100,8891
+" style="stroke:#555555;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#555555;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5112,8878
+5125,8866
+5924,9665
+5912,9678
+5112,8878
+" style="stroke:#585858;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#585858;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5125,8866
+5137,8853
+5937,9653
+5924,9665
+5125,8866
+" style="stroke:#5b5b5b;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#5b5b5b;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5137,8853
+5150,8841
+5949,9640
+5937,9653
+5137,8853
+" style="stroke:#5f5f5f;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#5f5f5f;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5150,8841
+5162,8828
+5962,9628
+5949,9640
+5150,8841
+" style="stroke:#626262;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#626262;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5162,8828
+5175,8816
+5974,9615
+5962,9628
+5162,8828
+" style="stroke:#656565;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#656565;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5175,8816
+5187,8803
+5987,9603
+5974,9615
+5175,8816
+" style="stroke:#696969;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#696969;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5187,8803
+5200,8791
+5999,9590
+5987,9603
+5187,8803
+" style="stroke:#6c6c6c;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#6c6c6c;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5200,8791
+5212,8778
+6012,9578
+5999,9590
+5200,8791
+" style="stroke:#6f6f6f;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#6f6f6f;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5212,8778
+5225,8766
+6024,9565
+6012,9578
+5212,8778
+" style="stroke:#737373;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#737373;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5225,8766
+5237,8754
+6037,9553
+6024,9565
+5225,8766
+" style="stroke:#767676;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#767676;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5237,8754
+5250,8741
+6049,9540
+6037,9553
+5237,8754
+" style="stroke:#797979;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#797979;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5250,8741
+5262,8729
+6062,9528
+6049,9540
+5250,8741
+" style="stroke:#7d7d7d;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7d7d7d;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5262,8729
+5275,8716
+6074,9515
+6062,9528
+5262,8729
+" style="stroke:#808080;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#808080;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5275,8716
+5287,8704
+6087,9503
+6074,9515
+5275,8716
+" style="stroke:#838383;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#838383;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5287,8704
+5300,8691
+6099,9490
+6087,9503
+5287,8704
+" style="stroke:#878787;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#878787;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5300,8691
+5312,8679
+6112,9478
+6099,9490
+5300,8691
+" style="stroke:#8a8a8a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#8a8a8a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5312,8679
+5325,8666
+6124,9466
+6112,9478
+5312,8679
+" style="stroke:#8d8d8d;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#8d8d8d;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5325,8666
+5337,8654
+6137,9453
+6124,9466
+5325,8666
+" style="stroke:#909090;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#909090;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5337,8654
+5350,8641
+6149,9441
+6137,9453
+5337,8654
+" style="stroke:#949494;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#949494;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5350,8641
+5362,8629
+6162,9428
+6149,9441
+5350,8641
+" style="stroke:#979797;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#979797;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5362,8629
+5375,8616
+6174,9416
+6162,9428
+5362,8629
+" style="stroke:#9a9a9a;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#9a9a9a;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5375,8616
+5387,8604
+6187,9403
+6174,9416
+5375,8616
+" style="stroke:#9e9e9e;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#9e9e9e;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5387,8604
+5400,8591
+6199,9391
+6187,9403
+5387,8604
+" style="stroke:#a1a1a1;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#a1a1a1;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5400,8591
+5412,8579
+6212,9378
+6199,9391
+5400,8591
+" style="stroke:#a4a4a4;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#a4a4a4;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5412,8579
+5425,8566
+6224,9366
+6212,9378
+5412,8579
+" style="stroke:#a8a8a8;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#a8a8a8;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5425,8566
+5437,8554
+6237,9353
+6224,9366
+5425,8566
+" style="stroke:#ababab;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ababab;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5437,8554
+5450,8541
+6249,9341
+6237,9353
+5437,8554
+" style="stroke:#aeaeae;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#aeaeae;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5450,8541
+5462,8529
+6262,9328
+6249,9341
+5450,8541
+" style="stroke:#b2b2b2;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#b2b2b2;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5462,8529
+5475,8516
+6274,9316
+6262,9328
+5462,8529
+" style="stroke:#b5b5b5;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#b5b5b5;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5475,8516
+5487,8504
+6287,9303
+6274,9316
+5475,8516
+" style="stroke:#b8b8b8;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#b8b8b8;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5487,8504
+5500,8491
+6299,9291
+6287,9303
+5487,8504
+" style="stroke:#bcbcbc;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#bcbcbc;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5500,8491
+5512,8479
+6312,9278
+6299,9291
+5500,8491
+" style="stroke:#bfbfbf;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#bfbfbf;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5512,8479
+5525,8466
+6324,9266
+6312,9278
+5512,8479
+" style="stroke:#c2c2c2;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#c2c2c2;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5525,8466
+5537,8454
+6337,9253
+6324,9266
+5525,8466
+" style="stroke:#c6c6c6;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#c6c6c6;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5537,8454
+5550,8441
+6349,9241
+6337,9253
+5537,8454
+" style="stroke:#c9c9c9;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#c9c9c9;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5550,8441
+5562,8429
+6362,9228
+6349,9241
+5550,8441
+" style="stroke:#cccccc;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#cccccc;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5562,8429
+5575,8416
+6374,9216
+6362,9228
+5562,8429
+" style="stroke:#d0d0d0;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d0d0d0;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5575,8416
+5587,8404
+6386,9203
+6374,9216
+5575,8416
+" style="stroke:#d3d3d3;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d3d3d3;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5587,8404
+5600,8391
+6399,9191
+6386,9203
+5587,8404
+" style="stroke:#d6d6d6;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d6d6d6;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5600,8391
+5612,8379
+6411,9178
+6399,9191
+5600,8391
+" style="stroke:#d9d9d9;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#d9d9d9;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5612,8379
+5625,8366
+6424,9166
+6411,9178
+5612,8379
+" style="stroke:#dddddd;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#dddddd;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5625,8366
+5637,8354
+6436,9153
+6424,9166
+5625,8366
+" style="stroke:#e0e0e0;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e0e0e0;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5637,8354
+5650,8341
+6449,9141
+6436,9153
+5637,8354
+" style="stroke:#e3e3e3;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e3e3e3;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5650,8341
+5662,8329
+6461,9128
+6449,9141
+5650,8341
+" style="stroke:#e7e7e7;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#e7e7e7;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5662,8329
+5675,8316
+6474,9116
+6461,9128
+5662,8329
+" style="stroke:#eaeaea;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#eaeaea;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5675,8316
+5675,8316
+6474,9116
+6474,9116
+5675,8316
+" style="stroke:#eaeaea;stroke-width:0;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#eaeaea;
+"/>
+<!-- Line -->
+<!--  polyline  -->
+<polyline points="5125,9365
+6225,9365
+5687,8866
+5125,9365
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1344" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">F</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1455" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">I</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1522" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">G</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1666" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">U</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1811" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">R</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="1944" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">E</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2136" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">2</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2236" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">-</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2303" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">2</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2403" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">:</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2528" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">K</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2672" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">i</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2728" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">n</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2828" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="2917" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">m</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3072" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">a</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3161" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">t</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3217" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">i</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3272" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">c</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3431" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">a</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3520" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">n</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3620" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">d</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3790" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">d</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3890" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">y</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="3990" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">n</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4090" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">a</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4179" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">m</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4334" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">i</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4390" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">c</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4548" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">a</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4637" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">p</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4737" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">p</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4837" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">r</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4896" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">o</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="4996" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">a</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5085" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">c</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5174" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">h</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5274" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">e</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5363" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">s</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5511" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">t</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5566" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">o</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5736" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">a</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5895" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">s</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="5973" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">i</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="6028" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">t</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="6084" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">u</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="6184" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">a</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="6273" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">t</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="6328" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">i</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="6384" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">o</text>
+<!-- Text -->
+<!--  text  -->
+<text xml:space="preserve" x="6484" y="13090" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="156" text-anchor="start">n</text>
+</g>
+</svg>
